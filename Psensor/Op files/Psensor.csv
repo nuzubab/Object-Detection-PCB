@@ -1,0 +1,9 @@
+Reference,Qty,Value,Part No,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+C2,1,4.7uF,C880382,,,,Capacitor_SMD:C_0805_2012Metric,https://www.lcsc.com/datasheet/C880382.pdf
+C3,1,100nF,C1525,,,,Capacitor_SMD:C_0402_1005Metric,https://www.lcsc.com/datasheet/C1525.pdf
+J4,1,Power,C22382528,,,,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,https://www.lcsc.com/datasheet/C53151755.pdf
+J5,1,Sensor Signal,C53151755,,,,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,https://www.lcsc.com/datasheet/C53151755.pdf
+R5,1,10K,C25744,,,,Resistor_SMD:R_0402_1005Metric,https://www.lcsc.com/datasheet/C25744.pdf
+"R6,R7",2,4.7K,C25900,,,,Resistor_SMD:R_0402_1005Metric,https://www.lcsc.com/datasheet/C25900.pdf
+R8,1,10 K,C25744,,,,Resistor_SMD:R_0402_1005Metric,https://www.lcsc.com/datasheet/C25744.pdf
+U1,1,VL53L1CXV0FY1,497-17764-2-ND,,,,Sensor_Distance:ST_VL53L1x,https://www.st.com/resource/en/datasheet/vl53l1x.pdf

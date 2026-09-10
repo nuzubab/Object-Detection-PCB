@@ -1,0 +1,19 @@
+Reference,Qty,Value,Part No.,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+A1,1,Arduino_Nano_RP2040(3.3V),C22392413,,,,Module:Arduino_Nano,https://www.mouser.com/datasheet/3/875/1/ABX00053_datasheet.pdf
+"C1,C6,C7,C8,C9,C10",6,100nF,C1525,,,,Capacitor_SMD:C_0402_1005Metric,https://www.lcsc.com/datasheet/C1525.pdf
+C4,1,10uF,C15525,,,,Capacitor_SMD:C_0402_1005Metric,https://www.lcsc.com/datasheet/C15525.pdf
+C5,1,100uF,C49333236,,,,Capacitor_SMD:C_0805_2012Metric,https://www.lcsc.com/datasheet/C49333236.pdf
+D1,1,LED,C264407,,,,LED_SMD:LED_0402_1005Metric,https://www.everlighteurope.com/custom/files/datasheets/DSE-0008062.pdf
+D2,1,SS14,C2909920,,,,Diode_SMD:D_SOD-123F,https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8588940987783241728-C2909920.pdf?response-content-disposition=attachment%3B%20filename%3DC2909920.pdf%3B%20filename%2A%3DUTF-8%27%27C2909920.pdf&x-oss-date=20260627T175834Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5n%2FJvCNuqVp1fCCM2jZtmQ3TsxPpZ3Glzz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qZU7izdZ4J7b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWgqqRNlFmnSgc5lCkRRYwGs1287ugXlSQzo890KPDAEovaKCnZ2ZSfh7Y4sNknI6i%2Bfc2Se2MIkItXJbWaKWD5sagAGvr%2Bt1WCZaWUFE%2FC2InG4cQhws%2FMnEEvZ2a1VaFKLg80f42x7kBFlcCCR%2BE7nJjB502YGdSb9ieq3SWVi%2BHMg4DsIKItEhRLdU8hshMExN%2BMxeBpmltr%2BWRiIO6Vcc%2Bqsu8xieyeAEwsse5sFnWW5VH%2FzJT9IJ8fEQqRUXJ3WdWiAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZJmJ9WzHb2i1NhRdbBCcJXmu%2F20260627%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=b213372d18a131752e667bff447bd76de36f8c47bcdadb505c23c9bd856b6bc7
+IC1,1,5V Regulator,C201654,,,,SOT230P700X180-4N,https://www.ti.com/lit/ds/symlink/ua78m.pdf
+J1,1,Power_11,C265281,,,,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,https://www.lcsc.com/datasheet/C265281.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFZaAgZVEVkPXgdSEQUNBVYHQVQMA1MFRgUPUwZQFlcxVlNeRldcVVNfR1daVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D
+J2,1,Vos,C265281,,,,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,https://www.lcsc.com/datasheet/C265281.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFZaAgZVEVkPXgdSEQUNBVYHQVQMA1MFRgUPUwZQFlcxVlNeRldcVVNfR1daVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D
+J3,1,PW_sensor,C265281,,,,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,https://www.lcsc.com/datasheet/C265281.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFZaAgZVEVkPXgdSEQUNBVYHQVQMA1MFRgUPUwZQFlcxVlNeRldcVVNfR1daVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D
+J4,1,sensor_signal,C225412,,,,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,https://www.lcsc.com/datasheet/C225412.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFZaAgZVEVkPXgdSEQUNBVYHQVQMA1MFRgUPUwZQFlcxVlNeRldcVV1fT1NfUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQlJfUlVRQlRADxALGw%3D%3D
+Q1,1,BSS138,C427380,,,,SOT95P240X120-3N:SOT95P240X120-3N,https://www.lcsc.com/datasheet/C427380.pdf
+Q2,1,BSS84,C85202,,,,Package_TO_SOT_SMD:SOT-23,https://www.lcsc.com/datasheet/C85202.pdf
+R1,1,330ohm,C25803,,,,Resistor_SMD:R_0805_2012Metric,https://www.lcsc.com/datasheet/C25803.pdf
+"R2,R4",2,10k,C25744,,,,Resistor_SMD:R_0402_1005Metric,https://www.lcsc.com/datasheet/C25744.pdf
+R3,1,100k,C25741,,,,Resistor_SMD:R_0402_1005Metric,https://www.lcsc.com/datasheet/C25741.pdf
+R9,1,1.2K,C102780,,,,Resistor_SMD:R_0402_1005Metric,https://www.lcsc.com/datasheet/C102780.pdf
+SW1,1,SW_SPST,C47020935,,,,Button_Switch_SMD:SW_SPDT_PCM12,https://www.lcsc.com/datasheet/C47020935.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFZaAgZVEVkPXgdSEQUNBVYHQVQMA1MFRgUPUwZQFlcxVlNeRldcVFZTQ1VdUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQ1heVVdRQVZADxALGw%3D%3D

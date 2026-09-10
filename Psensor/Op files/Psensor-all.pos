@@ -1,0 +1,15 @@
+### Footprint positions - created on 2026-06-14T23:51:51 ###
+### Printed by KiCad version 10.0.2
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val            Package                                     PosX       PosY       Rot  Side
+C2        4.7uF          C_0805_2012Metric                       172.2800   -81.0300  180.0000  top
+C3        100nF          C_0402_1005Metric                       172.2000   -79.2700  180.0000  top
+J4        Power          JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical   168.6400   -84.4600    0.0000  top
+J5        Sensor_Signal  JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical   161.8900   -84.1100   90.0000  top
+R5        10K            R_0402_1005Metric                       165.6900   -79.7100  -90.0000  top
+R6        4.7K           R_0402_1005Metric                       167.7000   -72.8100   90.0000  top
+R7        4.7K           R_0402_1005Metric                       170.0500   -72.7900   90.0000  top
+R8        10_K           R_0402_1005Metric                       168.5300   -79.6600  -90.0000  top
+U1        VL53L1CXV0FY1  ST_VL53L1x                              169.2300   -76.3800  180.0000  top
+## End

@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C2,0805,1,4.7uF,
+C3,0402,1,100nF,
+J4,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,1,Power,
+J5,JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,1,Sensor Signal,
+R5,0402,1,10K,
+"R6, R7",0402,2,4.7K,
+R8,0402,1,10 K,
+U1,ST_VL53L1x,1,VL53L1CXV0FY1,
