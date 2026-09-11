@@ -10,6 +10,8 @@ The system is divided into two custom PCBs:
 The project was designed in **KiCad** and is intended to provide programmable distance sensing with a switched output signal of approximately **11 V**.
 
 ---
+<img width="1280" height="873" alt="333" src="https://github.com/user-attachments/assets/c83ae52b-9738-4dd5-b109-b3e794b98b0a" />
+
 
 ## Features
 
