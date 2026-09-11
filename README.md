@@ -91,6 +91,7 @@ The main PCB contains:
 * Supporting resistors and power components
 
 The Nano is powered from the regulated supply generated from the main input voltage.
+<img width="1280" height="769" alt="2" src="https://github.com/user-attachments/assets/32a35146-b629-4fc1-b0f7-c3f87fd862bb" />
 
 ---
 
@@ -144,6 +145,8 @@ The sensor PCB is based on the **STMicroelectronics VL53L1X** Time-of-Flight ran
 The VL53L1X provides absolute distance measurements using infrared Time-of-Flight technology and communicates with the main controller through I²C.
 
 Main signals used by the design:
+
+<img width="1280" height="769" alt="1" src="https://github.com/user-attachments/assets/1c4fcdc7-28b9-45d1-bb2e-bdd2e6c027cd" />
 
 ```text
 SDA
